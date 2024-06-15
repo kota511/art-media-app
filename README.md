@@ -6,7 +6,7 @@
   - Sell it to other users, like a marketplace.
   - Marketplace for buying and selling art.
  
-  - **Prototype**
-  - https://www.figma.com/design/Urz1nNQ3OMO61kY3cNntks/Art-App-Layout?node-id=0-1&t=B80F4S5pOHSTbaiX-0
+  - **Prototype** :   https://www.figma.com/design/Urz1nNQ3OMO61kY3cNntks/Art-App-Layout?node-id=0-1&t=B80F4S5pOHSTbaiX-0
+ 
     
 
