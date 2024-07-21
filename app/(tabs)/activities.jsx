@@ -14,7 +14,7 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Feed and Explore tab</ThemedText>
+        <ThemedText type="title">Activities,follows,dm</ThemedText>
       </ThemedView>
     </ParallaxScrollView>
   );
